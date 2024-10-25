@@ -32,7 +32,7 @@ Ubuntu indirme işleminin açıklanması
 
 ![9](https://github.com/ramaaa963/Ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-26%20013640.png)
 
-![10](url_to_image)
+![10](https://github.com/ramaaa963/Ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-26%20013726.png)
 
 ![11](url_to_image)
 
