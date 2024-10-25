@@ -14,7 +14,7 @@ Ubuntu indirme işleminin açıklanması
 - Insert the USB drive into your computer and restart.
 - Follow the installation steps on-screen.
 
-![1](url_to_image)
+![1]((https://github.com/ramaaa963/Ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-26%20013048.png))
 
 ![2](url_to_image)
 
