@@ -38,7 +38,7 @@ Ubuntu indirme işleminin açıklanması
 
 ![12](https://github.com/ramaaa963/Ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-26%20013816.png)
 
-![13](url_to_image)
+![13](https://github.com/ramaaa963/Ubuntu/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202024-10-26%20013834.png)
 
 ![14](url_to_image)
 
